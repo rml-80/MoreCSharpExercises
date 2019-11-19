@@ -2,11 +2,12 @@
 
 namespace Exercise01
 {
-    class Program
+    class Program01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+             Console.WriteLine("Bob");
+             Console.WriteLine("Halloween");
         }
     }
 }
